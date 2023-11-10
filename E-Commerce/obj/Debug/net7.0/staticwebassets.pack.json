@@ -1,0 +1,417 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BookHarbor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BookHarbor.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\images\\product\\09cfeab9-3ec6-4ffa-bc00-e44c7df8722c.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\09cfeab9-3ec6-4ffa-bc00-e44c7df8722c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\images\\product\\0cf1f70d-bc1f-40e5-b87c-8e44d51c0af7.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\0cf1f70d-bc1f-40e5-b87c-8e44d51c0af7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\images\\product\\0ddd0316-2aa5-476b-b712-481696a30d21.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\0ddd0316-2aa5-476b-b712-481696a30d21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\images\\product\\0fa97cb9-217b-48b8-bc2b-8a24e88b3a05.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\0fa97cb9-217b-48b8-bc2b-8a24e88b3a05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\images\\product\\116f3f4f-07e2-4fdf-a9b5-ee035e426d07.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\116f3f4f-07e2-4fdf-a9b5-ee035e426d07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\images\\product\\177700e8-0dba-4803-8745-5500b0626036.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\177700e8-0dba-4803-8745-5500b0626036.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\images\\product\\29d18549-8d49-4140-b8f0-c26c56554956.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\29d18549-8d49-4140-b8f0-c26c56554956.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\images\\product\\316d5e94-2ed0-4e55-8c3f-3f5dd564deb9.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\316d5e94-2ed0-4e55-8c3f-3f5dd564deb9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\images\\product\\32ac0163-1a50-464c-8eff-d2784c70230c.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\32ac0163-1a50-464c-8eff-d2784c70230c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\images\\product\\37a85b01-2adf-448e-b1c5-ad9266b96c58.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\37a85b01-2adf-448e-b1c5-ad9266b96c58.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\images\\product\\3ad5f48c-25b9-4f1c-bf41-805ee8120b8a.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\3ad5f48c-25b9-4f1c-bf41-805ee8120b8a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\images\\product\\4c168278-f9aa-40d6-a665-4af30c5888df.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\4c168278-f9aa-40d6-a665-4af30c5888df.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\images\\product\\4da7bf60-d322-4020-8063-91411f14f4b9.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\4da7bf60-d322-4020-8063-91411f14f4b9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\images\\product\\601102a5-aba7-48b6-80c8-73d819411a7e.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\601102a5-aba7-48b6-80c8-73d819411a7e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\images\\product\\69de97b4-925f-48e6-a3ee-7ee6ea8a45ae.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\69de97b4-925f-48e6-a3ee-7ee6ea8a45ae.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\images\\product\\6aa90fd5-5487-4c4d-85e9-1f18a741da36.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\6aa90fd5-5487-4c4d-85e9-1f18a741da36.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\images\\product\\6b093f6c-4ee2-4763-a917-4ef09b8d99e1.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\6b093f6c-4ee2-4763-a917-4ef09b8d99e1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\images\\product\\6bde9b6f-ea51-4e2e-95ac-2ca509345e50.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\6bde9b6f-ea51-4e2e-95ac-2ca509345e50.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\images\\product\\6e3ff4d4-a17d-4639-b3ee-bc46e97dbab2.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\6e3ff4d4-a17d-4639-b3ee-bc46e97dbab2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\images\\product\\707d4ab5-55cf-411e-9cb2-de9fdf2c0400.webp",
+      "PackagePath": "staticwebassets\\images\\product\\707d4ab5-55cf-411e-9cb2-de9fdf2c0400.webp"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\images\\product\\722b462a-b187-40d7-9458-bae951689ccf.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\722b462a-b187-40d7-9458-bae951689ccf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\images\\product\\7c665592-e6eb-4caf-a8ac-70bcee281968.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\7c665592-e6eb-4caf-a8ac-70bcee281968.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\images\\product\\83938536-22d0-483e-9275-775ec3b19b06.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\83938536-22d0-483e-9275-775ec3b19b06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\images\\product\\8ce313ed-704d-44ed-9ad1-058481f21a15.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\8ce313ed-704d-44ed-9ad1-058481f21a15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\images\\product\\918553eb-4258-4127-9ba5-5da762683104.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\918553eb-4258-4127-9ba5-5da762683104.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\images\\product\\9797f3b2-75ca-4d7b-a2ad-5895de6f6999.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\9797f3b2-75ca-4d7b-a2ad-5895de6f6999.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\images\\product\\a2247592-7122-4e27-b5d5-4acfb5da55a3.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\a2247592-7122-4e27-b5d5-4acfb5da55a3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\images\\product\\a87be869-5762-40e2-be40-040d8dc60690.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\a87be869-5762-40e2-be40-040d8dc60690.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\images\\product\\a90f4541-a434-455f-af76-561908e8941f.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\a90f4541-a434-455f-af76-561908e8941f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\images\\product\\ae0362ae-c08d-41f8-84d2-ea1b21f0d25a.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\ae0362ae-c08d-41f8-84d2-ea1b21f0d25a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\images\\product\\b858cd32-90ec-4cbd-979c-0fdc72a915be.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\b858cd32-90ec-4cbd-979c-0fdc72a915be.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\images\\product\\bb270162-63aa-4fb3-8478-f1858f67de94.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\bb270162-63aa-4fb3-8478-f1858f67de94.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\images\\product\\cdab083f-68cb-478b-b61d-560cc14ddb52.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\cdab083f-68cb-478b-b61d-560cc14ddb52.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\images\\product\\ecc39c9d-c5a7-4239-a34a-42f4bddd7c2b.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\ecc39c9d-c5a7-4239-a34a-42f4bddd7c2b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\images\\product\\f30d8db4-53b2-45bd-b8ff-f442511055a0.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\f30d8db4-53b2-45bd-b8ff-f442511055a0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\images\\product\\fabc7989-ff1c-412c-a25b-40a795ffe0f2.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\fabc7989-ff1c-412c-a25b-40a795ffe0f2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\images\\product\\fbcedb34-db4b-481d-a23f-365753420d56.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\fbcedb34-db4b-481d-a23f-365753420d56.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\js\\book.js",
+      "PackagePath": "staticwebassets\\js\\book.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\E-BookStore\\E-BookStore\\E-Commerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BookHarbor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BookHarbor.props",
+      "PackagePath": "build\\BookHarbor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BookHarbor.props",
+      "PackagePath": "buildMultiTargeting\\BookHarbor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BookHarbor.props",
+      "PackagePath": "buildTransitive\\BookHarbor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,28 @@
+C:\Users\HP\Desktop\ASP.Net\Project 2\E-Commerce\E-CommerceApp\E-commerce.Utility\bin\Debug\net7.0\E-commerce.Utility.deps.json
+C:\Users\HP\Desktop\ASP.Net\Project 2\E-Commerce\E-CommerceApp\E-commerce.Utility\bin\Debug\net7.0\E-commerce.Utility.runtimeconfig.json
+C:\Users\HP\Desktop\ASP.Net\Project 2\E-Commerce\E-CommerceApp\E-commerce.Utility\bin\Debug\net7.0\E-commerce.Utility.dll
+C:\Users\HP\Desktop\ASP.Net\Project 2\E-Commerce\E-CommerceApp\E-commerce.Utility\bin\Debug\net7.0\E-commerce.Utility.pdb
+C:\Users\HP\Desktop\ASP.Net\Project 2\E-Commerce\E-CommerceApp\E-commerce.Utility\obj\Debug\net7.0\E-commerce.Utility.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ASP.Net\Project 2\E-Commerce\E-CommerceApp\E-commerce.Utility\obj\Debug\net7.0\E-commerce.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ASP.Net\Project 2\E-Commerce\E-CommerceApp\E-commerce.Utility\obj\Debug\net7.0\E-commerce.Utility.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ASP.Net\Project 2\E-Commerce\E-CommerceApp\E-commerce.Utility\obj\Debug\net7.0\E-commerce.Utility.AssemblyInfo.cs
+C:\Users\HP\Desktop\ASP.Net\Project 2\E-Commerce\E-CommerceApp\E-commerce.Utility\obj\Debug\net7.0\E-commerce.Utility.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ASP.Net\Project 2\E-Commerce\E-CommerceApp\E-commerce.Utility\obj\Debug\net7.0\E-commerce.Utility.dll
+C:\Users\HP\Desktop\ASP.Net\Project 2\E-Commerce\E-CommerceApp\E-commerce.Utility\obj\Debug\net7.0\refint\E-commerce.Utility.dll
+C:\Users\HP\Desktop\ASP.Net\Project 2\E-Commerce\E-CommerceApp\E-commerce.Utility\obj\Debug\net7.0\E-commerce.Utility.pdb
+C:\Users\HP\Desktop\ASP.Net\Project 2\E-Commerce\E-CommerceApp\E-commerce.Utility\obj\Debug\net7.0\E-commerce.Utility.genruntimeconfig.cache
+C:\Users\HP\Desktop\ASP.Net\Project 2\E-Commerce\E-CommerceApp\E-commerce.Utility\obj\Debug\net7.0\ref\E-commerce.Utility.dll
+C:\Users\HP\Desktop\DECAGON\Ayo-Oluwa\BookHarbor\E-commerce.Utility\bin\Debug\net7.0\E-commerce.Utility.deps.json
+C:\Users\HP\Desktop\DECAGON\Ayo-Oluwa\BookHarbor\E-commerce.Utility\bin\Debug\net7.0\E-commerce.Utility.runtimeconfig.json
+C:\Users\HP\Desktop\DECAGON\Ayo-Oluwa\BookHarbor\E-commerce.Utility\bin\Debug\net7.0\E-commerce.Utility.dll
+C:\Users\HP\Desktop\DECAGON\Ayo-Oluwa\BookHarbor\E-commerce.Utility\bin\Debug\net7.0\E-commerce.Utility.pdb
+C:\Users\HP\Desktop\DECAGON\Ayo-Oluwa\BookHarbor\E-commerce.Utility\obj\Debug\net7.0\E-commerce.Utility.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\DECAGON\Ayo-Oluwa\BookHarbor\E-commerce.Utility\obj\Debug\net7.0\E-commerce.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\DECAGON\Ayo-Oluwa\BookHarbor\E-commerce.Utility\obj\Debug\net7.0\E-commerce.Utility.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\DECAGON\Ayo-Oluwa\BookHarbor\E-commerce.Utility\obj\Debug\net7.0\E-commerce.Utility.AssemblyInfo.cs
+C:\Users\HP\Desktop\DECAGON\Ayo-Oluwa\BookHarbor\E-commerce.Utility\obj\Debug\net7.0\E-commerce.Utility.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\DECAGON\Ayo-Oluwa\BookHarbor\E-commerce.Utility\obj\Debug\net7.0\E-commerce.Utility.dll
+C:\Users\HP\Desktop\DECAGON\Ayo-Oluwa\BookHarbor\E-commerce.Utility\obj\Debug\net7.0\refint\E-commerce.Utility.dll
+C:\Users\HP\Desktop\DECAGON\Ayo-Oluwa\BookHarbor\E-commerce.Utility\obj\Debug\net7.0\E-commerce.Utility.pdb
+C:\Users\HP\Desktop\DECAGON\Ayo-Oluwa\BookHarbor\E-commerce.Utility\obj\Debug\net7.0\E-commerce.Utility.genruntimeconfig.cache
+C:\Users\HP\Desktop\DECAGON\Ayo-Oluwa\BookHarbor\E-commerce.Utility\obj\Debug\net7.0\ref\E-commerce.Utility.dll
